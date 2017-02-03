@@ -16,7 +16,6 @@ fi
 
 
 
-
 echo "What temperature is it ?"
 echo "Please give a numeric answer"
 read temp
@@ -30,7 +29,6 @@ elif [ $temp -ge 40 ]; then
 else
    echo "It is cold"
 fi
-
 
 
 
